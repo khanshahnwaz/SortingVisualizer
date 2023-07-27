@@ -1,7 +1,7 @@
 {
   "name": "practice",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://khanshahnwaz.github.io/SortingVisualizer",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
